@@ -12,21 +12,19 @@
       "Design8",
       "Design9"
     ],
-    "Other": [
+    "Project": [
+      "Design1",
+      "Design5",
+      "Design6",
+      "Design7",
+      "Design9"
+    ],
+    "Team": [
       "Design4",
       "Design5",
       "Design6",
       "Design9",
       "Design10"
-    ],
-    "Project": [
-      "Design1",
-      "Design7"
-    ],
-    "Team": [
-      "Design5",
-      "Design6",
-      "Design9"
     ]
   }
 }
