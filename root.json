@@ -1,6 +1,9 @@
 {
   "rootpath": "https:\/\/raw.githubusercontent.com\/ahmedkaludi\/amp-blocks-designs\/master\/template\/",
   "category": {
+    "CTA": [
+      "Design1"
+    ],
     "Testimonial": [
       "Design1"
     ],
